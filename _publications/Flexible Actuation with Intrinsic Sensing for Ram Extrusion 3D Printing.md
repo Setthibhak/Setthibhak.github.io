@@ -16,4 +16,4 @@ My main contribution to this paper, apart from being the main author, includes:
 
 <sub> This work is currently under review. It is planned to be published in _The International Journal of Advanced Manufacturing Technology_. The early draft of this work can be downloaded below.
 
-[Download paper here](http://setthibhak.github.io/files/Flexible-Actuation-with-Intrinsic-Sensing-Manuscript.pdf)
+[Download PDF](http://setthibhak.github.io/files/Flexible-Actuation-with-Intrinsic-Sensing-Manuscript.pdf)
