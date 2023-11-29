@@ -2,7 +2,7 @@
 title: "Flexible Actuation with Intrinsic Sensing for Ram Extrusion 3D Printing"
 collection: publications
 permalink: /publication/Flexible-Actuation-with-Intrinsic-Sensing
-excerpt: 'S. Suthithanakom, C. Sithiwichankit, K. Chaiprabha, and R. Chancharoen<br/>DOI: [10.21203/rs.3.rs-3500416/v1](https://doi.org/10.21203/rs.3.rs-3500416/v1)<br><br>This work is currently under review. It is planned to be published in _The International Journal of Advanced Manufacturing Technology_. The manuscript of this work can be downloaded below.'
+excerpt: 'S. Suthithanakom, C. Sithiwichankit, K. Chaiprabha, and R. Chancharoen<br/>DOI: [10.21203/rs.3.rs-3500416/v1](https://doi.org/10.21203/rs.3.rs-3500416/v1)<br><br>This work is currently under review. It is planned to be published in _The International Journal of Advanced Manufacturing Technology_. The preprint of this work can be downloaded below.'
 date: 2023-10-31
 venue: 'N/A'
 paperurl: 'http://setthibhak.github.io/files/Flexible-Actuation-with-Intrinsic-Sensing-Manuscript.pdf'
@@ -14,6 +14,6 @@ My main contribution to this paper, apart from being the main author, includes:
  - Construct and evaluate the printhead
  - Experiments design and execution
 
-<sub> This work is currently under review. It is planned to be published in _The International Journal of Advanced Manufacturing Technology_. The early draft of this work can be downloaded below.
+<sub> This work is currently under review. It is planned to be published in _The International Journal of Advanced Manufacturing Technology_. The preprint of this work can be downloaded below.
 
 [Download PDF](http://setthibhak.github.io/files/Flexible-Actuation-with-Intrinsic-Sensing-Manuscript.pdf)
