@@ -2,7 +2,7 @@
 title: "Temperature Control for Hydrogel Bio-Printing"
 collection: publications
 permalink: /publication/Temp-Control-for-Bio-Printing
-excerpt: 'S. Suthithanakom, S. Juemjutitam, N. Arunwattanamongkol, T. Wongpakham, A. Pimpin, and R. Chancharoen' # 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'S. Suthithanakom, S. Juemjutitam, N. Arunwattanamongkol, T. Wongpakham, A. Pimpin, and R. Chancharoen<br/>DOI: [10.1109/CIS-RAM47153.2019.9095808](https://ieeexplore.ieee.org/document/9095808)' # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-11-20
 venue: '9th IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM)'
 paperurl: 'http://setthibhak.github.io/files/Temp-Control-for-Bio-Printing.pdf'

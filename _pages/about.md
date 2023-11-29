@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<!-- To improve
+1. Make all link look clickable
+[done] 2. Update talks SCG
+[done] 3. Update publication doi
+4. Add collagen research
+ -->
+
 I am a highly motivated researcher driven by my deep passion and profound experience in 3D printing technology of soft matter, especially biomaterial and viscoelastic material. I am extremely determined to pursue a Ph.D. degree and become an impactful researcher in this field.
 
 ## [Research page](/research)
