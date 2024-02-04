@@ -27,6 +27,6 @@ This page illustrates my proficiency in mechanical design and rapid prototyping 
 
 Additionally, I co-founded Digitech Fabrication, a Thailand-based 3D printing startup supporting engineering research and education. More about the company can be found on this website. <br/>
 
-[http://digifab-th.com/](http://digifab-th.com/) <br/><sub> (The website is currently under maintenance at this time, sorry for your inconvenience)
+[http://digifab-th.com/](http://digifab-th.com/)
 
-My Curriculum vitae (CV) is available for download [here](/files/Setthibhak-CV-Oct2023.pdf).
+My Curriculum vitae (CV) is available for download [here](/files/Setthibhak-CV-Feb2024.pdf).
